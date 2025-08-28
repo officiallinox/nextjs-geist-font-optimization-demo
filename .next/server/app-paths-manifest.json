@@ -1,0 +1,9 @@
+{
+  "/community/page": "app/community/page.js",
+  "/cycle/page": "app/cycle/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/education/page": "app/education/page.js",
+  "/health/page": "app/health/page.js",
+  "/page": "app/page.js",
+  "/reminders/page": "app/reminders/page.js"
+}
